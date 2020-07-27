@@ -1,0 +1,13 @@
+.auth-login {
+	width: 100%;
+	background-color: transparent;
+	text-align: left;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.login.required {
+	margin: 0 0 !important;
+}
